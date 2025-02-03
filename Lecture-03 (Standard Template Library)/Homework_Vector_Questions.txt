@@ -1,0 +1,62 @@
+
+
+
+
+Home work questions
+
+Q1. Basic Vector Operations
+Write a C++ program to:
+a) Declare a vector of size 10.
+b) Assign values 9 and 56 to the 6th and 8th elements.
+c) Print the size of the vector.
+d) Add two elements 100 and 200 to the vector.
+e) Print the size of the vector after insertion.
+f) Print all elements of the vector using a loop.
+
+
+Q2. Basic Vector Operations
+Write a C++ program to:
+a) Declare a vector of size 10.
+b) Assign values 9 and 56 to the 6th and 8th elements, respectively.
+c) Print the size of the vector after the initialization.
+d) Add two elements (100 and 200) to the end of the vector.
+e) Print all the elements of the vector using a loop.
+
+Q3. User Input & Basic Vector Manipulations
+Write a C++ program to:
+a) Declare an empty vector of integers.
+b) Take input from the user to add 5 elements to the vector.
+c) Print the vector size after adding elements.
+d) Insert an element at the 2nd position of the vector.
+e) Print the updated vector after inserting the new element.
+
+Q4. Vector Operations: Searching and Modifying
+Write a C++ program to:
+a) Declare a vector with values {10, 20, 30, 40, 50}.
+b) Find and print the element at the 3rd index.
+c) Modify the element at the 1st index and assign it a value 15.
+d) Search if the number 30 exists in the vector using find().
+e) Print the vector after modifying the element.
+
+
+
+Q5. User Input and Vector Operations
+Write a program to:
+a) Declare a vector of integers.
+b) Take n (user input) as the number of elements.
+c) Read n numbers from the user and store them in the vector.
+d) Print all the elements of the vector.
+e) Find the sum of all elements in the vector and print it.
+
+Q6. Insert and Erase Elements in a Vector
+Write a program to:
+a) Declare a vector and initialize it with {10, 20, 30, 40, 50}.
+b) Insert 25 at the 3rd position (index 2).
+d) Print the  vector using a loop.
+
+Q7. Reverse a Vector
+Write a C++ program to:
+a) Declare a vector and take n elements as input from the user.
+b) Reverse the vector without using STL functions.
+c) Print the reversed vector.
+
