@@ -1,0 +1,41 @@
+
+
+
+
+
+
+															Array:
+
+
+															https://leetcode.com/problems/sum-of-good-numbers/description/
+
+
+															https://leetcode.com/problems/sum-of-variable-length-subarrays/description/
+
+															https://leetcode.com/problems/maximum-subarray-with-equal-products/description/
+
+
+
+															https://leetcode.com/problems/transformed-array/description/
+
+
+															https://leetcode.com/problems/maximum-height-of-a-triangle/description/
+
+
+
+
+
+
+															String:
+
+															https://leetcode.com/problems/to-lower-case/description/
+
+
+															https://leetcode.com/problems/faulty-keyboard/description/
+
+															https://leetcode.com/problems/truncate-sentence/description/
+
+
+															https://leetcode.com/problems/clear-digits/description/
+
+															https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/
